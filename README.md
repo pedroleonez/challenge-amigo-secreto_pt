@@ -1,7 +1,7 @@
 # Challenge Amigo Secreto
 
 ## Descrição
-Este é um projeto de um site que realiza sorteios de amigo secreto. O principal objetivo deste desafio é fortalecer minhas habilidades em lógica de programação. Aqui eu desenvolvi a lógica para resolver o problema.
+Este é um projeto de um site que realiza sorteios de amigo secreto. O principal objetivo deste desafio foi fortalecer minhas habilidades em lógica de programação. Aqui eu desenvolvi a lógica para resolver o problema.
 
 ## Funcionalidades
 - Adicionar amigos à lista
